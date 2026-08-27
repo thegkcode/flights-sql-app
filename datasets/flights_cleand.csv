@@ -1,0 +1,1001 @@
+,index,Airline,Date_of_Journey,Source,Destination,Route,Dep_Time,Duration,Total_Stops,Price
+0,0,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,11:40,785,1 stop,26890
+1,1,SpiceJet,2019-01-03,Banglore,New Delhi,BLR → HYD → DEL,15:35,485,1 stop,7744
+2,2,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:00,740,1 stop,27992
+3,3,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → AMD → DEL,8:50,2345,2 stops,17135
+4,4,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,11:40,1425,1 stop,25735
+5,5,Air India,2019-01-03,Banglore,New Delhi,BLR → VGA → HYD → DEL,10:30,655,2 stops,11213
+6,6,Air India,2019-01-03,Banglore,New Delhi,BLR → VGA → VTZ → DEL,10:30,435,2 stops,17461
+7,7,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → BBI → HYD → DEL,5:50,1825,3 stops,12346
+8,8,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:00,1420,1 stop,22270
+9,9,IndiGo,2019-01-03,Chennai,Kolkata,MAA → CCU,7:55,140,non-stop,8580
+10,10,Air India,2019-01-03,Delhi,Cochin,DEL → BLR → COK,9:45,1350,1 stop,22798
+11,11,IndiGo,2019-01-03,Chennai,Kolkata,MAA → CCU,13:20,135,non-stop,7295
+12,12,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → GAU → DEL,5:50,980,2 stops,13366
+13,13,IndiGo,2019-01-03,Kolkata,Banglore,CCU → BLR,15:10,155,non-stop,6565
+14,14,IndiGo,2019-01-03,Mumbai,Hyderabad,BOM → HYD,16:55,90,non-stop,8853
+15,15,SpiceJet,2019-01-03,Kolkata,Banglore,CCU → BLR,22:20,140,non-stop,5515
+16,16,Air India,2019-01-03,Banglore,New Delhi,BLR → MAA → DEL,11:50,1265,1 stop,14594
+17,17,IndiGo,2019-01-03,Chennai,Kolkata,MAA → CCU,11:35,145,non-stop,7900
+18,18,Air India,2019-01-03,Delhi,Cochin,DEL → BOM → COK,4:00,1660,1 stop,28322
+19,19,Air India,2019-01-03,Banglore,New Delhi,BLR → VGA → DEL,10:30,745,1 stop,11003
+20,20,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,16:55,885,1 stop,26890
+21,21,Air Asia,2019-01-03,Banglore,New Delhi,BLR → DEL,5:50,170,non-stop,10715
+22,22,Air India,2019-01-03,Banglore,New Delhi,BLR → DEL,17:00,165,non-stop,25913
+23,23,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,11:40,405,1 stop,26890
+24,24,Air India,2019-01-03,Banglore,New Delhi,BLR → AMD → DEL,0:30,1405,1 stop,12599
+25,25,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → BBI → HYD → VGA → DEL,5:50,1770,4 stops,17686
+26,26,Air India,2019-01-03,Mumbai,Hyderabad,BOM → HYD,13:55,90,non-stop,10082
+27,27,Vistara,2019-01-03,Banglore,New Delhi,BLR → AMD → DEL,6:40,915,1 stop,18387
+28,28,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,11:40,1365,1 stop,25735
+29,29,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,7:00,375,1 stop,26890
+30,30,IndiGo,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,19:35,300,1 stop,22153
+31,31,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,16:55,1050,1 stop,25735
+32,32,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,6:45,330,1 stop,23677
+33,33,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,1090,1 stop,22270
+34,34,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,1220,1 stop,20800
+35,35,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,11:40,1310,1 stop,25735
+36,36,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,7:00,550,1 stop,26890
+37,37,GoAir,2019-01-03,Banglore,New Delhi,BLR → DEL,7:45,175,non-stop,13663
+38,38,SpiceJet,2019-01-03,Kolkata,Banglore,CCU → BLR,17:15,150,non-stop,5515
+39,39,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,7:00,860,1 stop,27992
+40,40,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,640,1 stop,31825
+41,41,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,530,1 stop,26890
+42,42,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,23:30,170,non-stop,10067
+43,43,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → GAU → DEL,11:05,665,2 stops,13576
+44,44,Jet Airways Business,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,5:45,300,1 stop,52229
+45,45,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,18:40,890,1 stop,31825
+46,46,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,755,1 stop,31825
+47,47,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,22:20,170,non-stop,11934
+48,48,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → GAU → DEL,5:50,980,2 stops,13576
+49,49,Air India,2019-01-03,Banglore,New Delhi,BLR → MAA → DEL,11:50,1510,1 stop,15434
+50,50,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,11:40,1200,1 stop,22270
+51,51,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → DEL,19:55,160,non-stop,18308
+52,52,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,13:00,170,non-stop,19685
+53,53,Air India,2019-01-03,Banglore,New Delhi,BLR → DEL,21:10,165,non-stop,25703
+54,54,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:55,1210,1 stop,26890
+55,55,Air India,2019-01-03,Banglore,New Delhi,BLR → DEL,6:10,165,non-stop,15676
+56,56,Air India,2019-01-03,Banglore,New Delhi,BLR → BBI → DEL,9:30,855,1 stop,12704
+57,57,Air India,2019-01-03,Banglore,New Delhi,BLR → HYD → DEL,17:00,1155,1 stop,10246
+58,58,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,7:00,800,1 stop,27992
+59,59,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,1350,1 stop,25735
+60,60,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → NAG → DEL,8:50,1545,2 stops,31783
+61,61,Vistara,2019-01-03,Banglore,New Delhi,BLR → DEL,7:00,160,non-stop,21520
+62,62,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → DEL,5:50,1645,1 stop,13439
+63,63,IndiGo,2019-01-03,Kolkata,Banglore,CCU → BLR,17:15,160,non-stop,6565
+64,64,IndiGo,2019-01-03,Banglore,New Delhi,BLR → HYD → DEL,5:15,285,1 stop,8064
+65,65,Jet Airways Business,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,5:45,400,1 stop,62427
+66,66,IndiGo,2019-01-03,Kolkata,Banglore,CCU → BLR,14:20,155,non-stop,6565
+67,67,SpiceJet,2019-01-03,Chennai,Kolkata,MAA → CCU,8:20,135,non-stop,7298
+68,68,Vistara,2019-01-03,Banglore,New Delhi,BLR → DEL,11:30,160,non-stop,12648
+69,69,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → BBI → DEL,5:50,630,2 stops,15119
+70,70,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:00,435,1 stop,22270
+71,71,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → AMD → DEL,8:50,2345,2 stops,17135
+72,72,Air India,2019-01-03,Banglore,New Delhi,BLR → VGA → DEL,10:30,1490,1 stop,11528
+73,73,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,7:10,175,non-stop,11934
+74,74,Air India,2019-01-03,Banglore,New Delhi,BLR → DEL,13:20,170,non-stop,12526
+75,75,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → BHO → DEL,8:50,1475,2 stops,25430
+76,76,Vistara,2019-01-03,Banglore,New Delhi,BLR → DEL,21:10,175,non-stop,21730
+77,77,Multiple carriers,2019-01-03,Delhi,Cochin,DEL → BOM → COK,12:50,385,1 stop,36983
+78,78,GoAir,2019-01-03,Banglore,New Delhi,BLR → DEL,20:55,175,non-stop,18558
+79,79,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → BBI → HYD → DEL,5:50,1620,3 stops,13081
+80,80,Air India,2019-01-03,Banglore,New Delhi,BLR → AMD → DEL,0:30,1200,1 stop,14752
+81,81,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:00,490,1 stop,22270
+82,82,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,18:55,170,non-stop,14306
+83,83,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,1280,1 stop,20800
+84,84,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,305,1 stop,36235
+85,85,IndiGo,2019-01-03,Banglore,New Delhi,BLR → HYD → DEL,16:15,260,1 stop,7917
+86,86,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,5:45,875,1 stop,27992
+87,87,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,5:45,935,1 stop,27992
+88,88,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,695,1 stop,31825
+89,89,Air India,2019-01-03,Banglore,New Delhi,BLR → HYD → DEL,17:00,950,1 stop,10981
+90,90,Air India,2019-01-03,Banglore,New Delhi,BLR → BBI → DEL,9:30,1595,1 stop,12704
+91,91,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:00,1455,1 stop,22270
+92,92,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → DEL,11:05,1330,1 stop,13439
+93,93,SpiceJet,2019-01-03,Banglore,New Delhi,BLR → PNQ → DEL,10:20,475,1 stop,23267
+94,94,IndiGo,2019-01-03,Delhi,Cochin,DEL → HYD → MAA → COK,4:55,985,2 stops,10278
+95,95,IndiGo,2019-01-03,Mumbai,Hyderabad,BOM → HYD,2:30,90,non-stop,16000
+96,96,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,16:55,365,1 stop,54826
+97,97,SpiceJet,2019-01-03,Chennai,Kolkata,MAA → CCU,9:30,155,non-stop,7298
+98,98,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,1450,1 stop,25735
+99,99,Air India,2019-01-03,Banglore,New Delhi,BLR → COK → DEL,22:00,920,1 stop,21130
+100,100,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:00,625,1 stop,26890
+101,101,IndiGo,2019-01-03,Chennai,Kolkata,MAA → CCU,14:40,145,non-stop,7295
+102,102,SpiceJet,2019-01-03,Banglore,New Delhi,BLR → DEL,9:35,175,non-stop,11690
+103,103,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,435,1 stop,36235
+104,104,Air Asia,2019-01-03,Kolkata,Banglore,CCU → BLR,10:20,155,non-stop,5620
+105,105,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,7:00,325,1 stop,26890
+106,106,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:55,950,1 stop,26890
+107,107,Vistara,2019-01-03,Banglore,New Delhi,BLR → DEL,19:40,160,non-stop,21730
+108,108,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → BHO → DEL,8:50,2315,2 stops,25430
+109,109,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,1055,1 stop,22270
+110,110,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,16:55,965,1 stop,25735
+111,111,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,20:00,175,non-stop,14306
+112,112,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,20:35,890,1 stop,31825
+113,113,Air India,2019-01-03,Chennai,Kolkata,MAA → CCU,11:40,135,non-stop,19630
+114,114,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → DEL,5:50,1015,1 stop,14069
+115,115,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:55,380,1 stop,26890
+116,116,GoAir,2019-01-03,Banglore,New Delhi,BLR → GOI → DEL,15:45,270,1 stop,12314
+117,117,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,11:40,1045,1 stop,22270
+118,118,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,16:55,920,1 stop,26890
+119,119,SpiceJet,2019-01-03,Kolkata,Banglore,CCU → BLR,6:55,160,non-stop,4622
+120,120,Jet Airways,2019-01-03,Mumbai,Hyderabad,BOM → HYD,7:10,85,non-stop,17501
+121,121,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:00,315,1 stop,22270
+122,122,Air India,2019-01-03,Banglore,New Delhi,BLR → HYD → VGA → DEL,17:00,1795,2 stops,14887
+123,123,GoAir,2019-01-03,Banglore,New Delhi,BLR → DEL,11:40,175,non-stop,11111
+124,124,IndiGo,2019-01-03,Kolkata,Banglore,CCU → BLR,20:25,160,non-stop,4778
+125,125,IndiGo,2019-01-03,Mumbai,Hyderabad,BOM → HYD,6:20,85,non-stop,17501
+126,126,Air India,2019-01-03,Banglore,New Delhi,BLR → HYD → DEL,17:00,370,1 stop,11628
+127,127,SpiceJet,2019-01-03,Kolkata,Banglore,CCU → BLR,9:00,150,non-stop,5515
+128,128,Jet Airways,2019-01-03,Mumbai,Hyderabad,BOM → HYD,10:20,90,non-stop,10875
+129,129,IndiGo,2019-01-03,Mumbai,Hyderabad,BOM → HYD,21:20,85,non-stop,12475
+130,130,IndiGo,2019-01-03,Kolkata,Banglore,CCU → BLR,15:20,155,non-stop,6565
+131,131,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → AMD → DEL,8:50,905,2 stops,17345
+132,132,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,640,1 stop,26890
+133,133,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,5:45,760,1 stop,26890
+134,134,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,16:55,170,non-stop,12649
+135,135,Vistara,2019-01-03,Banglore,New Delhi,BLR → AMD → DEL,6:40,1665,1 stop,12371
+136,136,IndiGo,2019-01-03,Mumbai,Hyderabad,BOM → HYD,12:00,85,non-stop,12475
+137,137,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → BHO → DEL,6:45,1600,2 stops,26480
+138,138,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,375,1 stop,26890
+139,139,Air India,2019-01-03,Banglore,New Delhi,BLR → GAU → DEL,13:50,1730,1 stop,17198
+140,140,Air Asia,2019-01-03,Kolkata,Banglore,CCU → BLR,19:35,150,non-stop,5964
+141,141,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,5:45,570,1 stop,26890
+142,142,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,5:45,625,1 stop,26890
+143,143,Air India,2019-01-03,Mumbai,Hyderabad,BOM → HYD,19:30,75,non-stop,15385
+144,144,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:55,435,1 stop,26890
+145,145,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:55,570,1 stop,26890
+146,146,Multiple carriers,2019-01-03,Delhi,Cochin,DEL → BOM → COK,0:20,780,1 stop,29528
+147,147,IndiGo,2019-01-03,Mumbai,Hyderabad,BOM → HYD,9:10,90,non-stop,13999
+148,148,Multiple carriers,2019-01-03,Delhi,Cochin,DEL → HYD → COK,14:35,465,1 stop,14762
+149,149,IndiGo,2019-01-03,Banglore,New Delhi,BLR → HYD → DEL,16:55,295,1 stop,8153
+150,150,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,1165,1 stop,25735
+151,151,IndiGo,2019-01-03,Kolkata,Banglore,CCU → BLR,22:10,165,non-stop,4778
+152,152,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,1290,1 stop,25735
+153,153,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,375,1 stop,27992
+154,154,Vistara Premium economy,2019-01-03,Chennai,Kolkata,MAA → CCU,7:05,135,non-stop,9125
+155,155,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,14:05,1135,1 stop,20800
+156,156,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,7:00,685,1 stop,26890
+157,157,Air India,2019-01-03,Mumbai,Hyderabad,BOM → HYD,15:00,85,non-stop,6092
+158,158,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,1555,1 stop,26890
+159,159,IndiGo,2019-01-03,Banglore,New Delhi,BLR → NAG → DEL,16:50,285,1 stop,13302
+160,160,SpiceJet,2019-01-03,Mumbai,Hyderabad,BOM → HYD,5:45,80,non-stop,12475
+161,161,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:00,1265,1 stop,22270
+162,162,Jet Airways Business,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,5:45,340,1 stop,79512
+163,163,Multiple carriers,2019-01-03,Delhi,Cochin,DEL → BOM → COK,0:20,910,1 stop,23170
+164,164,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,5:45,805,1 stop,27992
+165,165,IndiGo,2019-01-03,Kolkata,Banglore,CCU → BLR,21:25,160,non-stop,4778
+166,166,Air Asia,2019-01-03,Banglore,New Delhi,BLR → DEL,23:25,165,non-stop,10873
+167,167,SpiceJet,2019-01-03,Chennai,Kolkata,MAA → CCU,17:45,140,non-stop,7718
+168,168,Air India,2019-01-03,Banglore,New Delhi,BLR → COK → DEL,22:00,1520,1 stop,14305
+169,169,IndiGo,2019-01-03,Banglore,New Delhi,BLR → IDR → DEL,13:40,295,1 stop,8707
+170,170,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,22:50,1220,1 stop,25735
+171,171,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,16:55,470,1 stop,26890
+172,172,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BDQ → DEL,5:50,390,1 stop,28097
+173,173,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → DEL,11:05,525,1 stop,14594
+174,174,Air India,2019-01-03,Kolkata,Banglore,CCU → BLR,14:15,150,non-stop,6535
+175,175,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,8:30,180,non-stop,10067
+176,176,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,11:40,1280,1 stop,20800
+177,177,IndiGo,2019-01-03,Kolkata,Banglore,CCU → BLR,9:35,165,non-stop,6565
+178,178,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,7:00,495,1 stop,26890
+179,179,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,8:55,745,1 stop,27992
+180,180,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,11:40,580,1 stop,27992
+181,181,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,18:25,175,non-stop,12649
+182,182,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,18:40,860,1 stop,31825
+183,183,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → BHO → DEL,8:50,875,2 stops,26743
+184,184,SpiceJet,2019-01-03,Mumbai,Hyderabad,BOM → HYD,22:45,85,non-stop,11005
+185,185,IndiGo,2019-01-03,Banglore,New Delhi,BLR → HYD → DEL,7:30,290,1 stop,8110
+186,186,Jet Airways Business,2019-01-03,Banglore,New Delhi,BLR → MAA → DEL,9:45,280,1 stop,57209
+187,187,Air India,2019-01-03,Delhi,Cochin,DEL → BOM → COK,23:00,1215,1 stop,27430
+188,188,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,21:20,175,non-stop,12649
+189,189,Multiple carriers,2019-01-03,Delhi,Cochin,DEL → BOM → COK,19:00,395,1 stop,23533
+190,190,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → IDR → DEL,6:45,1705,2 stops,20999
+191,191,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,18:40,365,1 stop,35185
+192,192,IndiGo,2019-01-03,Banglore,New Delhi,BLR → HYD → DEL,12:10,295,1 stop,9694
+193,193,Air India,2019-01-03,Banglore,New Delhi,BLR → MAA → DEL,11:50,725,1 stop,26092
+194,194,Jet Airways,2019-01-03,Banglore,New Delhi,BLR → BOM → DEL,7:00,1325,1 stop,26890
+195,195,Air India,2019-01-03,Banglore,New Delhi,BLR → CCU → DEL,11:05,700,1 stop,14069
+196,196,IndiGo,2019-01-03,Chennai,Kolkata,MAA → CCU,5:15,140,non-stop,7295
+197,197,Air India,2019-01-03,Banglore,New Delhi,BLR → BOM → IDR → DEL,8:50,1580,2 stops,19372
+198,198,IndiGo,2019-01-03,Banglore,New Delhi,BLR → DEL,10:05,175,non-stop,10067
+199,199,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:25,1120,1 stop,11467
+200,200,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → BLR,22:20,140,non-stop,3873
+201,201,IndiGo,2019-01-04,Mumbai,Hyderabad,BOM → HYD,9:10,90,non-stop,3342
+202,202,Vistara,2019-01-04,Banglore,Delhi,BLR → DEL,9:45,170,non-stop,5403
+203,203,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1400,1 stop,7064
+204,204,Air Asia,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,7:35,710,1 stop,5192
+205,205,Air India,2019-01-04,Kolkata,Banglore,CCU → IXR → DEL → BLR,5:50,1045,2 stops,11516
+206,206,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → AMD → BLR,10:00,1165,2 stops,12639
+207,207,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,9:35,575,1 stop,9314
+208,208,Air India,2019-01-04,Banglore,Delhi,BLR → DEL,21:05,170,non-stop,4441
+209,209,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → COK → TRV → BLR,10:00,1470,3 stops,12954
+210,210,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,0:30,175,non-stop,4423
+211,211,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1285,1 stop,7064
+212,212,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,15:15,175,non-stop,4544
+213,213,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1495,1 stop,7064
+214,214,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,855,1 stop,12681
+215,215,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → AMD → BLR,7:00,1345,2 stops,12219
+216,216,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,6:00,165,non-stop,7229
+217,217,Vistara,2019-01-04,Banglore,Delhi,BLR → DEL,7:00,160,non-stop,5403
+218,218,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,800,1 stop,12681
+219,219,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,11:10,175,non-stop,7229
+220,220,IndiGo,2019-01-04,Kolkata,Banglore,CCU → BLR,14:25,150,non-stop,4174
+221,221,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,17:00,1065,1 stop,9187
+222,222,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1400,1 stop,12681
+223,223,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1720,1 stop,12681
+224,224,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,17:45,180,non-stop,7229
+225,225,SpiceJet,2019-01-04,Delhi,Cochin,DEL → PNQ → COK,8:45,270,1 stop,4812
+226,226,Jet Airways,2019-01-04,Delhi,Cochin,DEL → BOM → COK,17:30,1145,1 stop,5406
+227,227,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:30,745,1 stop,7893
+228,228,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,960,1 stop,12681
+229,229,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,7:10,975,1 stop,7927
+230,230,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,14:05,570,1 stop,13364
+231,231,GoAir,2019-01-04,Delhi,Cochin,DEL → BOM → COK,10:35,540,1 stop,5281
+232,232,SpiceJet,2019-01-04,Mumbai,Hyderabad,BOM → HYD,5:45,90,non-stop,1965
+233,233,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,21:10,665,1 stop,8849
+234,234,Air India,2019-01-04,Kolkata,Banglore,CCU → HYD → BLR,19:00,890,1 stop,4227
+235,235,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → COK → BLR,10:00,920,2 stops,10408
+236,236,Jet Airways,2019-01-04,Delhi,Cochin,DEL → BOM → COK,16:00,1235,1 stop,5406
+237,237,IndiGo,2019-01-04,Delhi,Cochin,DEL → HYD → COK,7:35,275,1 stop,5073
+238,238,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → BLR,6:55,155,non-stop,3873
+239,239,Air India,2019-01-04,Kolkata,Banglore,CCU → GAU → IMF → DEL → BLR,16:45,1830,3 stops,8607
+240,240,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,9:35,505,1 stop,11467
+241,241,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,21:10,450,1 stop,13364
+242,242,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,365,1 stop,12681
+243,243,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:30,1605,1 stop,7211
+244,244,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,18:55,185,non-stop,7229
+245,245,Air India,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:50,905,1 stop,7893
+246,246,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,1220,1 stop,12681
+247,247,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → BLR,9:00,145,non-stop,3873
+248,248,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:25,800,1 stop,14151
+249,249,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,19:50,180,non-stop,7229
+250,250,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,14:05,345,1 stop,13364
+251,251,Jet Airways,2019-01-04,Mumbai,Hyderabad,BOM → HYD,2:55,85,non-stop,2228
+252,252,Jet Airways,2019-01-04,Mumbai,Hyderabad,BOM → HYD,7:05,85,non-stop,8040
+253,253,Air Asia,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,22:40,720,1 stop,5192
+254,254,IndiGo,2019-01-04,Delhi,Cochin,DEL → HYD → COK,6:50,320,1 stop,5298
+255,255,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,7:10,1555,1 stop,7980
+256,256,IndiGo,2019-01-04,Kolkata,Banglore,CCU → BLR,9:35,165,non-stop,4174
+257,257,Air India,2019-01-04,Banglore,Delhi,BLR → DEL,17:00,165,non-stop,5176
+258,258,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,21:10,730,1 stop,13364
+259,259,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,960,1 stop,7064
+260,260,IndiGo,2019-01-04,Kolkata,Banglore,CCU → GAU → BLR,15:10,320,1 stop,8567
+261,261,Air India,2019-01-04,Kolkata,Banglore,CCU → HYD → BLR,19:00,580,1 stop,4227
+262,262,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → IXB → BLR,15:55,330,1 stop,7646
+263,263,GoAir,2019-01-04,Delhi,Cochin,DEL → AMD → COK,7:25,370,1 stop,4563
+264,264,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,590,1 stop,12996
+265,265,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,590,1 stop,7064
+266,266,IndiGo,2019-01-04,Kolkata,Banglore,CCU → MAA → BLR,17:35,280,1 stop,5699
+267,267,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,16:55,180,non-stop,4823
+268,268,IndiGo,2019-01-04,Kolkata,Banglore,CCU → BLR,11:30,155,non-stop,4174
+269,269,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:25,870,1 stop,11467
+270,270,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1660,1 stop,7064
+271,271,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,1430,1 stop,7064
+272,272,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1285,1 stop,12681
+273,273,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,17:00,385,1 stop,8610
+274,274,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,17:00,965,1 stop,8662
+275,275,Air India,2019-01-04,Kolkata,Banglore,CCU → GAU → DEL → BLR,16:45,970,2 stops,9920
+276,276,Air India,2019-01-04,Kolkata,Banglore,CCU → GAU → DEL → BLR,16:45,1830,2 stops,9237
+277,277,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,1545,1 stop,7064
+278,278,Air Asia,2019-01-04,Kolkata,Banglore,CCU → BBI → BLR,6:50,220,1 stop,5162
+279,279,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → BLR,9:00,145,non-stop,3841
+280,280,SpiceJet,2019-01-04,Banglore,Delhi,BLR → DEL,9:30,170,non-stop,3971
+281,281,Air India,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:50,1540,1 stop,7893
+282,282,IndiGo,2019-01-04,Kolkata,Banglore,CCU → BLR,17:15,155,non-stop,4174
+283,283,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,585,1 stop,12681
+284,284,IndiGo,2019-01-04,Delhi,Cochin,DEL → MAA → COK,2:00,325,1 stop,5164
+285,285,SpiceJet,2019-01-04,Banglore,Delhi,BLR → DEL,5:55,160,non-stop,3919
+286,286,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,17:30,925,1 stop,7893
+287,287,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:20,1625,1 stop,7927
+288,288,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,9:35,690,1 stop,8066
+289,289,IndiGo,2019-01-04,Kolkata,Banglore,CCU → BLR,20:20,155,non-stop,4488
+290,290,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,1640,1 stop,7064
+291,291,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,7:10,790,1 stop,8452
+292,292,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,800,1 stop,7064
+293,293,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,10:10,170,non-stop,3943
+294,294,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,7:10,180,non-stop,7229
+295,295,Jet Airways,2019-01-04,Mumbai,Hyderabad,BOM → HYD,2:55,85,non-stop,5678
+296,296,Jet Airways,2019-01-04,Delhi,Cochin,DEL → BOM → COK,18:15,1485,1 stop,5406
+297,297,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,425,1 stop,12681
+298,298,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,21:10,775,1 stop,13784
+299,299,IndiGo,2019-01-04,Kolkata,Banglore,CCU → BLR,15:30,155,non-stop,4174
+300,300,Air India,2019-01-04,Kolkata,Banglore,CCU → BLR,20:45,155,non-stop,4460
+301,301,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → BLR,22:20,140,non-stop,3841
+302,302,Air Asia,2019-01-04,Kolkata,Banglore,CCU → BLR,22:50,150,non-stop,4107
+303,303,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,10:00,795,1 stop,7893
+304,304,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → VGA → BLR,7:00,1620,2 stops,9836
+305,305,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → AMD → BLR,7:00,1345,2 stops,12849
+306,306,Air India,2019-01-04,Kolkata,Banglore,CCU → MAA → BLR,14:35,1485,1 stop,5006
+307,307,Jet Airways,2019-01-04,Delhi,Cochin,DEL → BOM → COK,10:00,1595,1 stop,5406
+308,308,Air Asia,2019-01-04,Kolkata,Banglore,CCU → BLR,19:55,150,non-stop,3807
+309,309,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,685,1 stop,7064
+310,310,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,590,1 stop,12681
+311,311,GoAir,2019-01-04,Kolkata,Banglore,CCU → AMD → BLR,16:40,455,1 stop,5171
+312,312,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,1:30,165,non-stop,4423
+313,313,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,17:00,355,1 stop,8977
+314,314,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,9:35,690,1 stop,10953
+315,315,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,6:00,165,non-stop,4544
+316,316,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,21:10,450,1 stop,8849
+317,317,Air India,2019-01-04,Kolkata,Banglore,CCU → BBI → BOM → BLR,12:00,1830,2 stops,9258
+318,318,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1720,1 stop,7064
+319,319,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,21:10,730,1 stop,8849
+320,320,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,1495,1 stop,7064
+321,321,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,1695,1 stop,7064
+322,322,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,9:35,575,1 stop,11467
+323,323,Air India,2019-01-04,Mumbai,Hyderabad,BOM → HYD,21:05,80,non-stop,2050
+324,324,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → MAA → BLR,15:05,315,1 stop,4649
+325,325,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:20,1440,1 stop,8452
+326,326,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,1485,1 stop,7064
+327,327,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,850,1 stop,7064
+328,328,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,425,1 stop,7064
+329,329,IndiGo,2019-01-04,Delhi,Cochin,DEL → BOM → COK,20:25,305,1 stop,5073
+330,330,Jet Airways,2019-01-04,Delhi,Cochin,DEL → BOM → COK,22:50,825,1 stop,5177
+331,331,Air India,2019-01-04,Kolkata,Banglore,CCU → BLR,14:15,150,non-stop,6245
+332,332,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,590,1 stop,7851
+333,333,Air India,2019-01-04,Kolkata,Banglore,CCU → GAU → DEL → BLR,16:45,1155,2 stops,9920
+334,334,Jet Airways,2019-01-04,Delhi,Cochin,DEL → BOM → COK,10:00,540,1 stop,5406
+335,335,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,685,1 stop,12681
+336,336,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,4:00,170,non-stop,3943
+337,337,SpiceJet,2019-01-04,Delhi,Cochin,DEL → MAA → COK,6:05,315,1 stop,5351
+338,338,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,17:00,1550,1 stop,8610
+339,339,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,585,1 stop,7064
+340,340,IndiGo,2019-01-04,Mumbai,Hyderabad,BOM → HYD,20:05,95,non-stop,2227
+341,341,Jet Airways,2019-01-04,Mumbai,Hyderabad,BOM → HYD,10:20,90,non-stop,3205
+342,342,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,21:10,665,1 stop,13364
+343,343,IndiGo,2019-01-04,Delhi,Cochin,DEL → COK,14:20,195,non-stop,4729
+344,344,IndiGo,2019-01-04,Kolkata,Banglore,CCU → MAA → BLR,8:10,290,1 stop,5069
+345,345,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,1545,1 stop,7064
+346,346,Air Asia,2019-01-04,Banglore,Delhi,BLR → DEL,4:55,170,non-stop,4282
+347,347,IndiGo,2019-01-04,Kolkata,Banglore,CCU → BLR,4:40,155,non-stop,4174
+348,348,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,1655,1 stop,12681
+349,349,Air India,2019-01-04,Banglore,Delhi,BLR → DEL,6:10,165,non-stop,5176
+350,350,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,965,1 stop,7064
+351,351,Jet Airways,2019-01-04,Mumbai,Hyderabad,BOM → HYD,19:35,90,non-stop,5678
+352,352,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,1610,1 stop,7064
+353,353,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:20,1595,1 stop,7770
+354,354,Jet Airways,2019-01-04,Delhi,Cochin,DEL → BOM → COK,14:00,300,1 stop,5177
+355,355,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:25,1295,1 stop,11467
+356,356,Air India,2019-01-04,Mumbai,Hyderabad,BOM → HYD,6:20,80,non-stop,3100
+357,357,IndiGo,2019-01-04,Kolkata,Banglore,CCU → NAG → BLR,18:05,325,1 stop,6284
+358,358,Air India,2019-01-04,Kolkata,Banglore,CCU → BOM → HBX → BLR,16:50,1530,2 stops,7893
+359,359,Air India,2019-01-04,Mumbai,Hyderabad,BOM → HYD,19:30,75,non-stop,2050
+360,360,IndiGo,2019-01-04,Kolkata,Banglore,CCU → PAT → BLR,9:20,295,1 stop,10308
+361,361,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,9:35,1520,1 stop,11467
+362,362,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → COK → BLR,10:00,920,2 stops,10408
+363,363,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,735,1 stop,7064
+364,364,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,1025,1 stop,7064
+365,365,GoAir,2019-01-04,Banglore,Delhi,BLR → DEL,20:55,165,non-stop,4239
+366,366,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → PNQ → BLR,8:35,520,1 stop,6013
+367,367,Air India,2019-01-04,Kolkata,Banglore,CCU → BBI → BLR,9:10,245,1 stop,5793
+368,368,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,705,1 stop,7064
+369,369,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,1330,1 stop,7064
+370,370,Jet Airways,2019-01-04,Mumbai,Hyderabad,BOM → HYD,10:20,90,non-stop,8040
+371,371,Air India,2019-01-04,Kolkata,Banglore,CCU → BOM → AMD → BLR,9:25,1200,2 stops,12219
+372,372,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1495,1 stop,12681
+373,373,Air India,2019-01-04,Kolkata,Banglore,CCU → BOM → TRV → BLR,9:25,1505,2 stops,12009
+374,374,Vistara,2019-01-04,Banglore,Delhi,BLR → DEL,19:30,165,non-stop,5613
+375,375,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → BLR,17:10,150,non-stop,3841
+376,376,Air India,2019-01-04,Kolkata,Banglore,CCU → IXR → BBI → BLR,5:50,445,2 stops,5562
+377,377,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,730,1 stop,7064
+378,378,IndiGo,2019-01-04,Mumbai,Hyderabad,BOM → HYD,2:35,90,non-stop,2754
+379,379,IndiGo,2019-01-04,Mumbai,Hyderabad,BOM → HYD,19:05,90,non-stop,2754
+380,380,Jet Airways,2019-01-04,Delhi,Cochin,DEL → BOM → COK,9:00,1655,1 stop,5406
+381,381,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,1595,1 stop,7064
+382,382,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,865,1 stop,7064
+383,383,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,1335,1 stop,12681
+384,384,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,20:00,170,non-stop,4823
+385,385,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,1430,1 stop,12681
+386,386,Air India,2019-01-04,Banglore,Delhi,BLR → DEL,13:20,170,non-stop,5911
+387,387,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:30,930,1 stop,7893
+388,388,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,365,1 stop,7064
+389,389,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1025,1 stop,7064
+390,390,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,1640,1 stop,12681
+391,391,Air India,2019-01-04,Kolkata,Banglore,CCU → GAU → DEL → BLR,16:45,1660,2 stops,9920
+392,392,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → GAU → BLR,10:20,435,1 stop,6077
+393,393,GoAir,2019-01-04,Banglore,Delhi,BLR → DEL,7:45,175,non-stop,4239
+394,394,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:25,1540,1 stop,12121
+395,395,SpiceJet,2019-01-04,Banglore,Delhi,BLR → DEL,21:10,175,non-stop,3573
+396,396,IndiGo,2019-01-04,Kolkata,Banglore,CCU → BBI → BLR,19:35,220,1 stop,4226
+397,397,Vistara,2019-01-04,Banglore,Delhi,BLR → DEL,21:00,170,non-stop,5403
+398,398,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,1595,1 stop,12681
+399,399,Air India,2019-01-04,Delhi,Cochin,DEL → MAA → COK,9:45,1420,1 stop,5117
+400,400,Air India,2019-01-04,Kolkata,Banglore,CCU → BBI → BOM → BLR,12:00,590,2 stops,9258
+401,401,IndiGo,2019-01-04,Mumbai,Hyderabad,BOM → HYD,16:55,90,non-stop,3175
+402,402,SpiceJet,2019-01-04,Mumbai,Hyderabad,BOM → HYD,13:15,90,non-stop,1965
+403,403,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,8:30,170,non-stop,4823
+404,404,Jet Airways,2019-01-04,Delhi,Cochin,DEL → BOM → COK,18:15,1100,1 stop,5406
+405,405,SpiceJet,2019-01-04,Kolkata,Banglore,CCU → BLR,6:55,155,non-stop,3841
+406,406,SpiceJet,2019-01-04,Banglore,Delhi,BLR → DEL,21:10,175,non-stop,3625
+407,407,Air India,2019-01-04,Kolkata,Banglore,CCU → GAU → BLR,9:50,675,1 stop,8030
+408,408,SpiceJet,2019-01-04,Banglore,Delhi,BLR → DEL,5:55,160,non-stop,3971
+409,409,Air India,2019-01-04,Delhi,Cochin,DEL → MAA → COK,20:40,765,1 stop,5117
+410,410,SpiceJet,2019-01-04,Delhi,Cochin,DEL → BLR → COK,17:55,295,1 stop,4957
+411,411,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,7:10,945,1 stop,8295
+412,412,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,740,1 stop,7064
+413,413,IndiGo,2019-01-04,Kolkata,Banglore,CCU → PNQ → BLR,21:00,315,1 stop,5930
+414,414,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,475,1 stop,7851
+415,415,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,330,1 stop,10056
+416,416,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,1430,1 stop,7064
+417,417,IndiGo,2019-01-04,Mumbai,Hyderabad,BOM → HYD,21:20,90,non-stop,2227
+418,418,Vistara,2019-01-04,Banglore,Delhi,BLR → DEL,11:30,170,non-stop,5403
+419,419,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,6:05,165,non-stop,3943
+420,420,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,1220,1 stop,7064
+421,421,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,705,1 stop,12681
+422,422,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,7:10,700,1 stop,7927
+423,423,Vistara,2019-01-04,Delhi,Cochin,DEL → COK,14:40,190,non-stop,4851
+424,424,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,6:30,855,1 stop,7064
+425,425,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,19:50,180,non-stop,4544
+426,426,Air India,2019-01-04,Delhi,Cochin,DEL → MAA → COK,17:20,965,1 stop,5117
+427,427,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,730,1 stop,12681
+428,428,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:20,865,1 stop,8505
+429,429,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,1550,1 stop,7064
+430,430,SpiceJet,2019-01-04,Banglore,Delhi,BLR → DEL,9:30,170,non-stop,3919
+431,431,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,1655,1 stop,7064
+432,432,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,18:55,185,non-stop,4544
+433,433,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,9:35,505,1 stop,9314
+434,434,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,7:10,175,non-stop,4823
+435,435,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:20,765,1 stop,7980
+436,436,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,15:15,175,non-stop,7229
+437,437,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,910,1 stop,7064
+438,438,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,475,1 stop,12996
+439,439,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,7:10,1655,1 stop,8505
+440,440,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,8:25,740,1 stop,12681
+441,441,IndiGo,2019-01-04,Banglore,Delhi,BLR → DEL,13:00,170,non-stop,4591
+442,442,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,945,1 stop,7064
+443,443,Jet Airways,2019-01-04,Banglore,Delhi,BLR → DEL,17:45,180,non-stop,4544
+444,444,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,14:05,510,1 stop,13364
+445,445,Air India,2019-01-04,Kolkata,Banglore,CCU → GAU → DEL → BLR,9:50,805,2 stops,12125
+446,446,Air India,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,17:30,1110,1 stop,7893
+447,447,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,20:00,735,1 stop,12681
+448,448,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,20:20,1350,1 stop,7927
+449,449,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,1695,1 stop,12681
+450,450,Air India,2019-01-04,Kolkata,Banglore,CCU → BBI → BOM → BLR,12:00,1390,2 stops,9258
+451,451,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,14:05,400,1 stop,13364
+452,452,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,16:30,1430,1 stop,12681
+453,453,Jet Airways,2019-01-04,Kolkata,Banglore,CCU → BOM → BLR,18:55,800,1 stop,12681
+454,454,Air India,2019-01-04,Delhi,Cochin,DEL → COK,5:10,170,non-stop,4729
+455,455,Vistara,2019-01-04,Kolkata,Banglore,CCU → DEL → BLR,17:00,1640,1 stop,9135
+456,456,Air India,2019-01-05,Kolkata,Banglore,CCU → GAU → DEL → BLR,9:50,1385,2 stops,13227
+457,457,Air India,2019-01-05,Kolkata,Banglore,CCU → GAU → DEL → BLR,9:50,1385,2 stops,13227
+458,458,Air India,2019-01-05,Kolkata,Banglore,CCU → GAU → BLR,16:45,1700,1 stop,7452
+459,459,IndiGo,2019-01-05,Kolkata,Banglore,CCU → BLR,20:20,155,non-stop,4804
+460,460,Air India,2019-01-05,Kolkata,Banglore,CCU → BBI → BOM → BLR,12:00,1830,2 stops,10151
+461,461,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,18:25,175,non-stop,4823
+462,462,IndiGo,2019-01-05,Delhi,Cochin,DEL → BOM → COK,7:30,810,1 stop,8542
+463,463,IndiGo,2019-01-05,Chennai,Kolkata,MAA → CCU,19:35,140,non-stop,3597
+464,464,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → GAU → BLR,10:20,435,1 stop,5608
+465,465,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,20:00,845,1 stop,13941
+466,466,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,6:30,1610,1 stop,9663
+467,467,IndiGo,2019-01-05,Mumbai,Hyderabad,BOM → HYD,20:05,95,non-stop,2227
+468,468,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,8:20,180,non-stop,5198
+469,469,IndiGo,2019-01-05,Chennai,Kolkata,MAA → CCU,5:15,145,non-stop,3850
+470,470,Vistara,2019-01-05,Banglore,Delhi,BLR → DEL,7:00,160,non-stop,4668
+471,471,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,18:55,910,1 stop,8586
+472,472,Air India,2019-01-05,Kolkata,Banglore,CCU → BBI → BOM → BLR,12:00,590,2 stops,10676
+473,473,IndiGo,2019-01-05,Kolkata,Banglore,CCU → BBI → BLR,19:35,220,1 stop,4226
+474,474,Air Asia,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,7:35,955,1 stop,5192
+475,475,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,18:55,185,non-stop,4030
+476,476,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,505,1 stop,10703
+477,477,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1285,1 stop,9314
+478,478,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,21:10,450,1 stop,14781
+479,479,SpiceJet,2019-01-05,Chennai,Kolkata,MAA → CCU,17:45,140,non-stop,3543
+480,480,Air Asia,2019-01-05,Kolkata,Banglore,CCU → IXR → DEL → BLR,15:10,500,2 stops,5192
+481,481,IndiGo,2019-01-05,Kolkata,Banglore,CCU → BLR,11:30,155,non-stop,5644
+482,482,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → IXB → BLR,11:15,435,1 stop,8844
+483,483,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1065,1 stop,9187
+484,484,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,7:00,555,1 stop,10203
+485,485,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → BLR,9:00,145,non-stop,4174
+486,486,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → GAU → BLR,10:20,435,1 stop,8355
+487,487,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,17:45,180,non-stop,7229
+488,488,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,0:30,175,non-stop,4284
+489,489,IndiGo,2019-01-05,Kolkata,Banglore,CCU → BLR,17:15,155,non-stop,4804
+490,490,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,395,1 stop,13067
+491,491,Air India,2019-01-05,Mumbai,Hyderabad,BOM → HYD,19:30,75,non-stop,3100
+492,492,IndiGo,2019-01-05,Kolkata,Banglore,CCU → PAT → BLR,9:20,295,1 stop,8443
+493,493,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → BLR,9:00,145,non-stop,3841
+494,494,GoAir,2019-01-05,Kolkata,Banglore,CCU → AMD → BLR,16:40,455,1 stop,6484
+495,495,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,16:30,730,1 stop,8586
+496,496,Jet Airways,2019-01-05,Mumbai,Hyderabad,BOM → HYD,2:55,85,non-stop,3210
+497,497,Jet Airways,2019-01-05,Mumbai,Hyderabad,BOM → HYD,10:20,90,non-stop,8040
+498,498,IndiGo,2019-01-05,Kolkata,Banglore,CCU → BLR,4:40,155,non-stop,4804
+499,499,IndiGo,2019-01-05,Mumbai,Hyderabad,BOM → HYD,9:10,90,non-stop,4575
+500,500,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,575,1 stop,9314
+501,501,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,1:30,165,non-stop,4077
+502,502,GoAir,2019-01-05,Banglore,Delhi,BLR → DEL,20:55,165,non-stop,3898
+503,503,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → COK → BLR,20:30,1035,2 stops,15164
+504,504,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1005,1 stop,9314
+505,505,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,10:00,375,1 stop,10203
+506,506,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,20:00,800,1 stop,9663
+507,507,Air India,2019-01-05,Mumbai,Hyderabad,BOM → HYD,21:05,80,non-stop,3625
+508,508,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,1090,1 stop,13941
+509,509,Jet Airways,2019-01-05,Delhi,Cochin,DEL → AMD → BOM → COK,23:05,1760,2 stops,16704
+510,510,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,1480,1 stop,12121
+511,511,Air India,2019-01-05,Kolkata,Banglore,CCU → GAU → DEL → BLR,16:45,1185,2 stops,14960
+512,512,Air India,2019-01-05,Kolkata,Banglore,CCU → BOM → AMD → BLR,9:25,1200,2 stops,14687
+513,513,Jet Airways,2019-01-05,Mumbai,Hyderabad,BOM → HYD,2:55,85,non-stop,5678
+514,514,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,1540,1 stop,14151
+515,515,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,18:55,910,1 stop,13941
+516,516,IndiGo,2019-01-05,Delhi,Cochin,DEL → BOM → COK,18:35,415,1 stop,8854
+517,517,IndiGo,2019-01-05,Kolkata,Banglore,CCU → HYD → BLR,15:15,290,1 stop,4775
+518,518,SpiceJet,2019-01-05,Mumbai,Hyderabad,BOM → HYD,22:45,90,non-stop,1965
+519,519,SpiceJet,2019-01-05,Chennai,Kolkata,MAA → CCU,9:45,135,non-stop,3597
+520,520,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:20,765,1 stop,8452
+521,521,Jet Airways,2019-01-05,Delhi,Cochin,DEL → JAI → BOM → COK,5:30,1375,2 stops,15129
+522,522,Air India,2019-01-05,Kolkata,Banglore,CCU → BOM → COK → BLR,16:50,1255,2 stops,16372
+523,523,Air Asia,2019-01-05,Banglore,Delhi,BLR → DEL,23:55,170,non-stop,4483
+524,524,Air India,2019-01-05,Delhi,Cochin,DEL → MAA → COK,20:40,765,1 stop,7480
+525,525,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1500,1 stop,11467
+526,526,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,7:10,1555,1 stop,8452
+527,527,Air India,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,9:25,545,1 stop,8891
+528,528,Air India,2019-01-05,Kolkata,Banglore,CCU → HYD → BLR,19:00,965,1 stop,6117
+529,529,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → BLR,17:10,150,non-stop,4174
+530,530,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,875,1 stop,13941
+531,531,Air India,2019-01-05,Kolkata,Banglore,CCU → IXR → DEL → BLR,5:50,1840,2 stops,12723
+532,532,Air India,2019-01-05,Kolkata,Banglore,CCU → MAA → BLR,14:35,1440,1 stop,7001
+533,533,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1285,1 stop,11467
+534,534,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → BLR,22:20,140,non-stop,3873
+535,535,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,20:00,800,1 stop,14388
+536,536,Multiple carriers,2019-01-05,Delhi,Cochin,DEL → BOM → COK,9:00,615,1 stop,15373
+537,537,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,1520,1 stop,12121
+538,538,Air India,2019-01-05,Kolkata,Banglore,CCU → HYD → BLR,19:00,580,1 stop,6117
+539,539,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,6:30,800,1 stop,14781
+540,540,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,20:00,845,1 stop,8586
+541,541,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1745,1 stop,14151
+542,542,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → BLR,6:55,155,non-stop,3873
+543,543,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,16:30,365,1 stop,14781
+544,544,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,6:05,165,non-stop,4423
+545,545,Air India,2019-01-05,Kolkata,Banglore,CCU → IXR → BBI → BLR,5:50,445,2 stops,7662
+546,546,Multiple carriers,2019-01-05,Delhi,Cochin,DEL → BOM → COK,10:20,520,1 stop,9794
+547,547,Vistara,2019-01-05,Banglore,Delhi,BLR → DEL,21:00,170,non-stop,4668
+548,548,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,1315,1 stop,14388
+549,549,Air India,2019-01-05,Kolkata,Banglore,CCU → IXR → DEL → BLR,5:50,2065,2 stops,10991
+550,550,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,8:20,180,non-stop,7229
+551,551,Jet Airways,2019-01-05,Mumbai,Hyderabad,BOM → HYD,7:05,85,non-stop,8040
+552,552,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1640,1 stop,8610
+553,553,IndiGo,2019-01-05,Kolkata,Banglore,CCU → NAG → BLR,18:05,325,1 stop,6218
+554,554,Air India,2019-01-05,Kolkata,Banglore,CCU → IXR → DEL → BLR,5:50,1045,2 stops,10991
+555,555,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,13:00,170,non-stop,4423
+556,556,Jet Airways,2019-01-05,Mumbai,Hyderabad,BOM → HYD,19:35,90,non-stop,5678
+557,557,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,510,1 stop,10844
+558,558,IndiGo,2019-01-05,Mumbai,Hyderabad,BOM → HYD,19:05,90,non-stop,2754
+559,559,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,21:10,450,1 stop,10844
+560,560,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,18:55,185,non-stop,7229
+561,561,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,685,1 stop,14781
+562,562,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,21:10,730,1 stop,14781
+563,563,Air India,2019-01-05,Kolkata,Banglore,CCU → GAU → DEL → BLR,9:50,805,2 stops,13227
+564,564,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,10:10,170,non-stop,3943
+565,565,Jet Airways,2019-01-05,Mumbai,Hyderabad,BOM → HYD,19:35,90,non-stop,2228
+566,566,Air India,2019-01-05,Kolkata,Banglore,CCU → BOM → HBX → BLR,9:25,535,2 stops,8366
+567,567,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,18:55,175,non-stop,4823
+568,568,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,7:10,790,1 stop,8610
+569,569,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,6:30,590,1 stop,14781
+570,570,IndiGo,2019-01-05,Chennai,Kolkata,MAA → CCU,14:45,140,non-stop,3597
+571,571,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,1090,1 stop,8586
+572,572,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,870,1 stop,12121
+573,573,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,16:30,1055,1 stop,8586
+574,574,IndiGo,2019-01-05,Chennai,Kolkata,MAA → CCU,7:55,140,non-stop,3850
+575,575,Jet Airways,2019-01-05,Mumbai,Hyderabad,BOM → HYD,7:05,85,non-stop,4995
+576,576,Air India,2019-01-05,Chennai,Kolkata,MAA → CCU,11:40,135,non-stop,4667
+577,577,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,16:30,945,1 stop,13941
+578,578,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,21:10,730,1 stop,10844
+579,579,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,15:15,175,non-stop,7229
+580,580,Air India,2019-01-05,Delhi,Cochin,DEL → GOI → BOM → COK,22:00,1275,2 stops,11281
+581,581,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,590,1 stop,14781
+582,582,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,690,1 stop,12384
+583,583,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,475,1 stop,14781
+584,584,Air India,2019-01-05,Banglore,Delhi,BLR → DEL,13:20,170,non-stop,6121
+585,585,Air India,2019-01-05,Banglore,Delhi,BLR → DEL,6:10,165,non-stop,6121
+586,586,SpiceJet,2019-01-05,Chennai,Kolkata,MAA → CCU,9:45,135,non-stop,3543
+587,587,Jet Airways,2019-01-05,Delhi,Cochin,DEL → AMD → BOM → COK,23:05,1195,2 stops,15129
+588,588,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,875,1 stop,8586
+589,589,Air Asia,2019-01-05,Banglore,Delhi,BLR → DEL,4:55,170,non-stop,4282
+590,590,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,1215,1 stop,13941
+591,591,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,475,1 stop,10844
+592,592,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,590,1 stop,10844
+593,593,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → KNU → BLR,11:35,435,1 stop,8479
+594,594,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,1080,1 stop,11467
+595,595,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,16:30,365,1 stop,10844
+596,596,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,11:10,175,non-stop,7229
+597,597,IndiGo,2019-01-05,Mumbai,Hyderabad,BOM → HYD,6:25,90,non-stop,4392
+598,598,IndiGo,2019-01-05,Chennai,Kolkata,MAA → CCU,11:35,145,non-stop,4332
+599,599,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,20:00,960,1 stop,9663
+600,600,IndiGo,2019-01-05,Kolkata,Banglore,CCU → MAA → BLR,6:20,240,1 stop,4226
+601,601,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,10:00,795,1 stop,10203
+602,602,Air India,2019-01-05,Kolkata,Banglore,CCU → IXR → DEL → BLR,5:50,875,2 stops,10991
+603,603,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,1450,1 stop,11467
+604,604,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,16:30,1170,1 stop,9663
+605,605,Air India,2019-01-05,Delhi,Cochin,DEL → HYD → MAA → COK,17:15,970,2 stops,8839
+606,606,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,1655,1 stop,9663
+607,607,Jet Airways,2019-01-05,Delhi,Cochin,DEL → JAI → BOM → COK,9:40,1615,2 stops,15129
+608,608,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,7:10,180,non-stop,4030
+609,609,Air India,2019-01-05,Kolkata,Banglore,CCU → BBI → BOM → BLR,12:00,1390,2 stops,11148
+610,610,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,16:55,180,non-stop,4823
+611,611,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,21:10,775,1 stop,10844
+612,612,SpiceJet,2019-01-05,Mumbai,Hyderabad,BOM → HYD,22:45,90,non-stop,2017
+613,613,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,345,1 stop,14781
+614,614,IndiGo,2019-01-05,Chennai,Kolkata,MAA → CCU,13:15,140,non-stop,3597
+615,615,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,395,1 stop,12384
+616,616,Air India,2019-01-05,Mumbai,Hyderabad,BOM → HYD,6:20,80,non-stop,3625
+617,617,Air India,2019-01-05,Banglore,Delhi,BLR → DEL,21:05,170,non-stop,6121
+618,618,Vistara,2019-01-05,Banglore,Delhi,BLR → DEL,11:30,170,non-stop,4668
+619,619,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,740,1 stop,10844
+620,620,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,1730,1 stop,9314
+621,621,Air Asia,2019-01-05,Kolkata,Banglore,CCU → BBI → BLR,6:50,220,1 stop,6857
+622,622,GoAir,2019-01-05,Delhi,Cochin,DEL → AMD → COK,7:25,370,1 stop,5842
+623,623,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → AMD → BLR,10:00,1165,2 stops,13899
+624,624,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → MAA → BLR,15:05,315,1 stop,4649
+625,625,Air India,2019-01-05,Kolkata,Banglore,CCU → IXR → DEL → BLR,5:50,1625,2 stops,10991
+626,626,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,740,1 stop,14781
+627,627,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,1215,1 stop,8586
+628,628,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,1365,1 stop,9314
+629,629,Vistara,2019-01-05,Banglore,Delhi,BLR → DEL,9:45,170,non-stop,4668
+630,630,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,22:10,170,non-stop,3943
+631,631,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → BLR,17:10,150,non-stop,3841
+632,632,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → BLR,6:55,155,non-stop,3841
+633,633,SpiceJet,2019-01-05,Mumbai,Hyderabad,BOM → HYD,13:15,90,non-stop,2385
+634,634,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,965,1 stop,8452
+635,635,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,10:00,625,1 stop,10203
+636,636,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,21:10,665,1 stop,14781
+637,637,IndiGo,2019-01-05,Kolkata,Banglore,CCU → BLR,15:30,155,non-stop,4804
+638,638,Air India,2019-01-05,Kolkata,Banglore,CCU → BBI → BOM → BLR,12:00,1195,2 stops,10151
+639,639,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,20:00,735,1 stop,13941
+640,640,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1550,1 stop,8610
+641,641,Air India,2019-01-05,Kolkata,Banglore,CCU → BBI → BOM → BLR,9:10,760,2 stops,12009
+642,642,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1685,1 stop,12121
+643,643,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,17:45,180,non-stop,4030
+644,644,IndiGo,2019-01-05,Delhi,Cochin,DEL → LKO → COK,21:50,345,1 stop,6349
+645,645,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,840,1 stop,13067
+646,646,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:20,865,1 stop,9187
+647,647,Air Asia,2019-01-05,Kolkata,Banglore,CCU → BLR,10:20,155,non-stop,4409
+648,648,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → AMD → BLR,7:00,1345,2 stops,14424
+649,649,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → COK → BLR,17:30,1215,2 stops,15164
+650,650,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,750,1 stop,12121
+651,651,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,1630,1 stop,9314
+652,652,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,800,1 stop,11467
+653,653,SpiceJet,2019-01-05,Mumbai,Hyderabad,BOM → HYD,13:15,90,non-stop,2437
+654,654,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,18:55,585,1 stop,8586
+655,655,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,15:15,175,non-stop,4544
+656,656,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,1200,1 stop,13941
+657,657,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,1630,1 stop,11467
+658,658,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,16:30,425,1 stop,14781
+659,659,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,510,1 stop,14781
+660,660,Air Asia,2019-01-05,Kolkata,Banglore,CCU → BLR,22:50,150,non-stop,4409
+661,661,Multiple carriers,2019-01-05,Delhi,Cochin,DEL → BOM → COK,19:00,390,1 stop,9424
+662,662,GoAir,2019-01-05,Banglore,Delhi,BLR → DEL,7:45,175,non-stop,3898
+663,663,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,21:10,665,1 stop,10844
+664,664,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,20:00,520,1 stop,8586
+665,665,SpiceJet,2019-01-05,Chennai,Kolkata,MAA → CCU,8:20,135,non-stop,3597
+666,666,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,1730,1 stop,11467
+667,667,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,6:30,1545,1 stop,9663
+668,668,GoAir,2019-01-05,Banglore,Delhi,BLR → DEL,11:40,170,non-stop,4340
+669,669,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,19:50,180,non-stop,7229
+670,670,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,11:10,175,non-stop,4030
+671,671,Jet Airways,2019-01-05,Delhi,Cochin,DEL → AMD → BOM → COK,19:10,1430,2 stops,15129
+672,672,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1075,1 stop,12121
+673,673,IndiGo,2019-01-05,Kolkata,Banglore,CCU → BLR,22:15,155,non-stop,4804
+674,674,Air India,2019-01-05,Banglore,Delhi,BLR → DEL,10:00,165,non-stop,6121
+675,675,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,570,1 stop,14781
+676,676,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,1495,1 stop,9663
+677,677,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,8:30,170,non-stop,4823
+678,678,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → COK → BLR,10:00,1665,2 stops,15164
+679,679,Multiple carriers,2019-01-05,Delhi,Cochin,DEL → BOM → COK,8:30,630,1 stop,9627
+680,680,IndiGo,2019-01-05,Kolkata,Banglore,CCU → MAA → BLR,8:10,290,1 stop,5069
+681,681,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,21:10,775,1 stop,14781
+682,682,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,8:25,1495,1 stop,14388
+683,683,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,23:30,170,non-stop,4591
+684,684,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,7:10,700,1 stop,9345
+685,685,IndiGo,2019-01-05,Kolkata,Banglore,CCU → HYD → BLR,19:20,265,1 stop,3809
+686,686,Vistara,2019-01-05,Chennai,Kolkata,MAA → CCU,7:05,135,non-stop,3687
+687,687,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,7:10,1655,1 stop,9187
+688,688,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,7:10,175,non-stop,4823
+689,689,Vistara,2019-01-05,Chennai,Kolkata,MAA → CCU,17:45,140,non-stop,11982
+690,690,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,6:30,330,1 stop,14388
+691,691,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1500,1 stop,9314
+692,692,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,18:55,800,1 stop,8586
+693,693,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → COK → BLR,10:00,1665,2 stops,15164
+694,694,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,1295,1 stop,9314
+695,695,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,20:00,520,1 stop,13941
+696,696,Air India,2019-01-05,Kolkata,Banglore,CCU → BOM → COK → BLR,9:25,1700,2 stops,16372
+697,697,SpiceJet,2019-01-05,Banglore,Delhi,BLR → DEL,21:10,175,non-stop,4991
+698,698,SpiceJet,2019-01-05,Chennai,Kolkata,MAA → CCU,8:20,135,non-stop,3543
+699,699,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:20,1440,1 stop,8610
+700,700,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,1315,1 stop,9663
+701,701,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,6:30,705,1 stop,14781
+702,702,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1570,1 stop,11467
+703,703,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,7:10,180,non-stop,7229
+704,704,IndiGo,2019-01-05,Banglore,Delhi,BLR → DEL,4:00,170,non-stop,3943
+705,705,Air India,2019-01-05,Kolkata,Banglore,CCU → BLR,14:15,150,non-stop,6245
+706,706,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,18:55,1025,1 stop,9663
+707,707,SpiceJet,2019-01-05,Banglore,Delhi,BLR → DEL,9:30,170,non-stop,4423
+708,708,Multiple carriers,2019-01-05,Delhi,Cochin,DEL → BOM → COK,7:30,690,1 stop,9794
+709,709,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,575,1 stop,11467
+710,710,Jet Airways,2019-01-05,Banglore,Delhi,BLR → DEL,6:00,165,non-stop,4030
+711,711,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:20,1625,1 stop,8085
+712,712,IndiGo,2019-01-05,Kolkata,Banglore,CCU → BBI → BLR,7:10,330,1 stop,6111
+713,713,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,6:30,705,1 stop,10844
+714,714,Air India,2019-01-05,Mumbai,Hyderabad,BOM → HYD,13:55,90,non-stop,3625
+715,715,Air India,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,9:25,1350,1 stop,8366
+716,716,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,9:35,1450,1 stop,9314
+717,717,Air Asia,2019-01-05,Kolkata,Banglore,CCU → BLR,19:55,150,non-stop,5989
+718,718,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,1365,1 stop,11467
+719,719,Air India,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,16:50,905,1 stop,8366
+720,720,GoAir,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,23:30,495,1 stop,6686
+721,721,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1005,1 stop,11467
+722,722,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,17:00,1570,1 stop,9314
+723,723,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,14:05,1155,1 stop,9663
+724,724,SpiceJet,2019-01-05,Mumbai,Hyderabad,BOM → HYD,5:45,90,non-stop,2017
+725,725,Vistara,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,7:10,930,1 stop,8452
+726,726,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → BOM → BLR,16:30,945,1 stop,8586
+727,727,SpiceJet,2019-01-05,Kolkata,Banglore,CCU → IXB → BLR,15:55,330,1 stop,8844
+728,728,IndiGo,2019-01-05,Mumbai,Hyderabad,BOM → HYD,16:55,90,non-stop,3175
+729,729,Jet Airways,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,20:25,1080,1 stop,9314
+730,730,Air Asia,2019-01-05,Kolkata,Banglore,CCU → DEL → BLR,22:40,720,1 stop,5192
+731,731,Air India,2019-01-05,Kolkata,Banglore,CCU → BOM → COK → BLR,9:25,1700,2 stops,15532
+732,732,Air India,2019-01-05,Kolkata,Banglore,CCU → DEL → COK → BLR,10:00,1665,2 stops,15164
+733,733,Air Asia,2019-01-06,Delhi,Cochin,DEL → BLR → COK,16:45,340,1 stop,11410
+734,734,IndiGo,2019-01-06,Kolkata,Banglore,CCU → BLR,14:25,150,non-stop,6064
+735,735,Air Asia,2019-01-06,Delhi,Cochin,DEL → BLR → COK,20:45,625,1 stop,11410
+736,736,Jet Airways,2019-01-06,Banglore,Delhi,BLR → DEL,7:10,180,non-stop,8016
+737,737,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,4:55,965,1 stop,6314
+738,738,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,20:55,940,1 stop,10262
+739,739,SpiceJet,2019-01-06,Kolkata,Banglore,CCU → BLR,6:55,155,non-stop,3873
+740,740,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,19:15,1425,1 stop,14714
+741,741,Air Asia,2019-01-06,Delhi,Cochin,DEL → BLR → COK,16:45,865,1 stop,11410
+742,742,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,20:25,305,1 stop,6593
+743,743,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,15:00,1295,1 stop,10262
+744,744,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,4:55,860,1 stop,8835
+745,745,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,3:50,525,1 stop,12192
+746,746,Jet Airways,2019-01-06,Banglore,Delhi,BLR → DEL,18:55,185,non-stop,8016
+747,747,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,17:30,480,1 stop,13377
+748,748,Jet Airways,2019-01-06,Banglore,Delhi,BLR → DEL,6:00,165,non-stop,7229
+749,749,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,11:25,455,1 stop,11200
+750,750,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:35,505,1 stop,11200
+751,751,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:00,660,1 stop,10262
+752,752,SpiceJet,2019-01-06,Chennai,Kolkata,MAA → CCU,8:20,135,non-stop,3543
+753,753,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,13:00,480,1 stop,13587
+754,754,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:45,735,1 stop,7740
+755,755,Jet Airways,2019-01-06,Banglore,Delhi,BLR → DEL,19:50,180,non-stop,8016
+756,756,Air India,2019-01-06,Delhi,Cochin,DEL → AMD → BOM → COK,19:45,1410,2 stops,10651
+757,757,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,11:40,440,1 stop,12524
+758,758,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:15,585,1 stop,12042
+759,759,IndiGo,2019-01-06,Chennai,Kolkata,MAA → CCU,5:15,145,non-stop,3540
+760,760,Air India,2019-01-06,Mumbai,Hyderabad,BOM → HYD,13:55,90,non-stop,3625
+761,761,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → IDR → BOM → COK,15:05,625,2 stops,18275
+762,762,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:15,705,1 stop,7258
+763,763,Air India,2019-01-06,Mumbai,Hyderabad,BOM → HYD,6:20,80,non-stop,3100
+764,764,IndiGo,2019-01-06,Kolkata,Banglore,CCU → BLR,9:35,155,non-stop,4804
+765,765,IndiGo,2019-01-06,Mumbai,Hyderabad,BOM → HYD,2:35,90,non-stop,3175
+766,766,Air India,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,12:00,1180,2 stops,10966
+767,767,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:00,660,1 stop,12192
+768,768,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,5:30,810,2 stops,10368
+769,769,Air India,2019-01-06,Delhi,Cochin,DEL → HYD → BOM → COK,17:15,1560,2 stops,12970
+770,770,Jet Airways,2019-01-06,Delhi,Cochin,DEL → IDR → BOM → COK,9:35,1130,2 stops,13292
+771,771,Air Asia,2019-01-06,Delhi,Cochin,DEL → BLR → COK,7:55,870,1 stop,8759
+772,772,Air India,2019-01-06,Delhi,Cochin,DEL → GOI → BOM → COK,22:00,1275,2 stops,10861
+773,773,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,22:50,1210,1 stop,14714
+774,774,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,7:30,690,1 stop,11200
+775,775,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,6:05,165,non-stop,3943
+776,776,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,14:00,300,1 stop,14714
+777,777,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:15,600,1 stop,9779
+778,778,SpiceJet,2019-01-06,Banglore,Delhi,BLR → DEL,9:30,170,non-stop,3971
+779,779,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:00,540,1 stop,14714
+780,780,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,14:00,865,1 stop,10262
+781,781,IndiGo,2019-01-06,Kolkata,Banglore,CCU → BLR,21:25,160,non-stop,4804
+782,782,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,19:15,1040,1 stop,10262
+783,783,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,19:30,1025,2 stops,13014
+784,784,Jet Airways,2019-01-06,Mumbai,Hyderabad,BOM → HYD,2:55,85,non-stop,5678
+785,785,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,4:00,170,non-stop,3943
+786,786,Jet Airways,2019-01-06,Delhi,Cochin,DEL → IDR → BOM → COK,9:35,1620,2 stops,13292
+787,787,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:00,930,1 stop,7198
+788,788,GoAir,2019-01-06,Banglore,Delhi,BLR → DEL,20:55,165,non-stop,3898
+789,789,IndiGo,2019-01-06,Delhi,Cochin,DEL → HYD → COK,11:55,635,1 stop,6674
+790,790,Air Asia,2019-01-06,Kolkata,Banglore,CCU → BLR,10:20,155,non-stop,4409
+791,791,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,6:40,740,1 stop,11200
+792,792,IndiGo,2019-01-06,Delhi,Cochin,DEL → PNQ → COK,23:30,305,1 stop,10112
+793,793,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,17:30,655,1 stop,14714
+794,794,Air India,2019-01-06,Delhi,Cochin,DEL → GOI → BOM → COK,22:00,1275,2 stops,10441
+795,795,Air India,2019-01-06,Delhi,Cochin,DEL → BLR → COK,17:40,320,1 stop,7384
+796,796,Vistara,2019-01-06,Chennai,Kolkata,MAA → CCU,7:05,135,non-stop,3687
+797,797,IndiGo,2019-01-06,Mumbai,Hyderabad,BOM → HYD,9:15,90,non-stop,4049
+798,798,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,17:10,500,1 stop,6628
+799,799,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BDQ → BOM → COK,18:25,1090,2 stops,14237
+800,800,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,22:50,335,1 stop,10262
+801,801,Air India,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:00,615,1 stop,10454
+802,802,Jet Airways,2019-01-06,Mumbai,Hyderabad,BOM → HYD,7:05,85,non-stop,4050
+803,803,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:30,750,1 stop,6416
+804,804,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,18:15,1485,1 stop,14714
+805,805,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:00,600,1 stop,14714
+806,806,IndiGo,2019-01-06,Delhi,Cochin,DEL → COK,5:35,195,non-stop,6541
+807,807,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,16:00,300,1 stop,6593
+808,808,Air India,2019-01-06,Kolkata,Banglore,CCU → BLR,20:45,155,non-stop,4145
+809,809,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,13:00,360,1 stop,14714
+810,810,Air India,2019-01-06,Delhi,Cochin,DEL → MAA → COK,20:40,765,1 stop,7480
+811,811,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,11:40,455,1 stop,10261
+812,812,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,2:15,620,1 stop,14714
+813,813,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,13:00,360,1 stop,10262
+814,814,IndiGo,2019-01-06,Delhi,Cochin,DEL → HYD → COK,6:50,560,1 stop,6442
+815,815,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → HYD → COK,14:55,455,1 stop,7038
+816,816,SpiceJet,2019-01-06,Kolkata,Banglore,CCU → BLR,14:55,150,non-stop,3841
+817,817,Jet Airways,2019-01-06,Delhi,Cochin,DEL → ATQ → BOM → COK,20:00,505,2 stops,16263
+818,818,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → HYD → COK,7:10,540,1 stop,7038
+819,819,Air India,2019-01-06,Delhi,Cochin,DEL → TRV → COK,5:15,1535,1 stop,7480
+820,820,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,20:55,450,1 stop,10262
+821,821,Air India,2019-01-06,Delhi,Cochin,DEL → HYD → BOM → COK,17:15,865,2 stops,14667
+822,822,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,11:30,465,1 stop,16108
+823,823,Air India,2019-01-06,Banglore,Delhi,BLR → DEL,17:00,165,non-stop,7171
+824,824,Air India,2019-01-06,Delhi,Cochin,DEL → CCU → BOM → COK,14:25,1730,2 stops,13591
+825,825,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,10:10,170,non-stop,3943
+826,826,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:00,780,1 stop,13587
+827,827,Jet Airways,2019-01-06,Delhi,Cochin,DEL → NAG → BOM → COK,6:45,1300,2 stops,10919
+828,828,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,2:15,1570,1 stop,10262
+829,829,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,14:00,300,1 stop,10262
+830,830,Jet Airways,2019-01-06,Banglore,Delhi,BLR → DEL,11:10,175,non-stop,7229
+831,831,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,15:00,630,1 stop,6628
+832,832,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,19:30,1025,2 stops,10368
+833,833,Jet Airways,2019-01-06,Delhi,Cochin,DEL → NAG → BOM → COK,14:35,1320,2 stops,13376
+834,834,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BHO → BOM → COK,5:30,425,2 stops,13344
+835,835,SpiceJet,2019-01-06,Chennai,Kolkata,MAA → CCU,17:45,140,non-stop,3543
+836,836,Jet Airways,2019-01-06,Mumbai,Hyderabad,BOM → HYD,19:35,90,non-stop,3210
+837,837,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,18:15,435,1 stop,13377
+838,838,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,13:00,750,1 stop,13377
+839,839,SpiceJet,2019-01-06,Banglore,Delhi,BLR → DEL,21:10,175,non-stop,3573
+840,840,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,17:30,1530,1 stop,10262
+841,841,Air India,2019-01-06,Delhi,Cochin,DEL → MAA → COK,12:30,1255,1 stop,7480
+842,842,IndiGo,2019-01-06,Mumbai,Hyderabad,BOM → HYD,16:55,90,non-stop,3175
+843,843,SpiceJet,2019-01-06,Delhi,Cochin,DEL → MAA → COK,6:05,315,1 stop,5583
+844,844,IndiGo,2019-01-06,Mumbai,Hyderabad,BOM → HYD,21:20,90,non-stop,2227
+845,845,Jet Airways,2019-01-06,Delhi,Cochin,DEL → NAG → BOM → COK,6:45,1300,2 stops,10919
+846,846,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,21:50,395,1 stop,10262
+847,847,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,19:45,1010,1 stop,10262
+848,848,Jet Airways,2019-01-06,Delhi,Cochin,DEL → NAG → BOM → COK,14:35,1320,2 stops,10919
+849,849,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:00,930,1 stop,13377
+850,850,SpiceJet,2019-01-06,Banglore,Delhi,BLR → DEL,5:55,160,non-stop,3625
+851,851,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,11:40,560,1 stop,7740
+852,852,Air India,2019-01-06,Mumbai,Hyderabad,BOM → HYD,19:30,75,non-stop,3100
+853,853,Jet Airways,2019-01-06,Delhi,Cochin,DEL → COK,11:00,195,non-stop,7202
+854,854,SpiceJet,2019-01-06,Delhi,Cochin,DEL → BLR → COK,17:55,295,1 stop,5975
+855,855,IndiGo,2019-01-06,Delhi,Cochin,DEL → HYD → COK,6:50,320,1 stop,5298
+856,856,Vistara,2019-01-06,Banglore,Delhi,BLR → DEL,21:00,170,non-stop,4668
+857,857,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,13:00,170,non-stop,3943
+858,858,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,14:00,690,1 stop,13377
+859,859,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,18:15,610,1 stop,14714
+860,860,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,3:50,910,1 stop,12192
+861,861,Air India,2019-01-06,Delhi,Cochin,DEL → HYD → MAA → COK,13:15,1210,2 stops,10467
+862,862,IndiGo,2019-01-06,Delhi,Cochin,DEL → MAA → COK,7:15,315,1 stop,6582
+863,863,IndiGo,2019-01-06,Delhi,Cochin,DEL → HYD → COK,7:35,275,1 stop,5054
+864,864,Air India,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:00,675,1 stop,9929
+865,865,IndiGo,2019-01-06,Kolkata,Banglore,CCU → BLR,22:15,155,non-stop,4804
+866,866,IndiGo,2019-01-06,Chennai,Kolkata,MAA → CCU,22:05,140,non-stop,5277
+867,867,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,15:00,630,1 stop,13377
+868,868,Vistara,2019-01-06,Delhi,Cochin,DEL → COK,6:00,190,non-stop,6741
+869,869,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,13:00,375,1 stop,16108
+870,870,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,19:15,550,1 stop,14714
+871,871,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,7:05,730,1 stop,12927
+872,872,IndiGo,2019-01-06,Chennai,Kolkata,MAA → CCU,7:55,140,non-stop,3850
+873,873,Jet Airways,2019-01-06,Mumbai,Hyderabad,BOM → HYD,10:20,90,non-stop,4050
+874,874,Air India,2019-01-06,Delhi,Cochin,DEL → COK,5:10,170,non-stop,6094
+875,875,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:00,600,1 stop,12717
+876,876,Vistara,2019-01-06,Banglore,Delhi,BLR → DEL,17:00,155,non-stop,4878
+877,877,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → HYD → COK,9:45,765,1 stop,9646
+878,878,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,11:30,450,1 stop,14714
+879,879,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,7:05,715,1 stop,15190
+880,880,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,13:00,1415,1 stop,10262
+881,881,IndiGo,2019-01-06,Mumbai,Hyderabad,BOM → HYD,12:00,90,non-stop,2754
+882,882,Jet Airways,2019-01-06,Mumbai,Hyderabad,BOM → HYD,2:55,85,non-stop,4050
+883,883,SpiceJet,2019-01-06,Kolkata,Banglore,CCU → BLR,6:55,155,non-stop,3841
+884,884,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,14:00,865,1 stop,14714
+885,885,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,16:55,170,non-stop,4823
+886,886,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → IXU → BOM → COK,17:50,460,2 stops,18485
+887,887,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,7:05,330,1 stop,16079
+888,888,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,18:35,415,1 stop,6628
+889,889,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,5:30,810,2 stops,13014
+890,890,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,17:30,480,1 stop,6628
+891,891,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → HYD → COK,7:05,545,1 stop,9646
+892,892,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,7:05,330,1 stop,12898
+893,893,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:00,1655,1 stop,10262
+894,894,GoAir,2019-01-06,Delhi,Cochin,DEL → AMD → COK,7:25,370,1 stop,6393
+895,895,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,18:15,1100,1 stop,10262
+896,896,Air India,2019-01-06,Delhi,Cochin,DEL → RPR → NAG → BOM → COK,5:15,1585,3 stops,12383
+897,897,SpiceJet,2019-01-06,Mumbai,Hyderabad,BOM → HYD,13:15,90,non-stop,2175
+898,898,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,13:00,925,1 stop,10262
+899,899,IndiGo,2019-01-06,Mumbai,Hyderabad,BOM → HYD,20:05,95,non-stop,2227
+900,900,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,21:50,885,1 stop,14714
+901,901,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,16:00,570,1 stop,13377
+902,902,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → HYD → COK,7:05,925,1 stop,9646
+903,903,Vistara,2019-01-06,Banglore,Delhi,BLR → DEL,11:30,170,non-stop,4668
+904,904,IndiGo,2019-01-06,Kolkata,Banglore,CCU → BLR,20:20,155,non-stop,4804
+905,905,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,12:50,490,1 stop,7005
+906,906,Air Asia,2019-01-06,Kolkata,Banglore,CCU → BLR,22:50,150,non-stop,4409
+907,907,Air Asia,2019-01-06,Delhi,Cochin,DEL → BLR → COK,7:55,330,1 stop,9330
+908,908,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:00,720,1 stop,13587
+909,909,Jet Airways,2019-01-06,Banglore,Delhi,BLR → DEL,17:45,180,non-stop,7229
+910,910,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,2:15,1005,1 stop,10262
+911,911,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,22:50,825,1 stop,10262
+912,912,IndiGo,2019-01-06,Chennai,Kolkata,MAA → CCU,15:40,165,non-stop,3540
+913,913,Vistara,2019-01-06,Banglore,Delhi,BLR → DEL,7:00,160,non-stop,4878
+914,914,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,5:30,1375,2 stops,13014
+915,915,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,7:10,175,non-stop,4823
+916,916,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,19:45,1395,1 stop,14714
+917,917,Air India,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:00,555,1 stop,9929
+918,918,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,18:00,450,1 stop,7933
+919,919,Air India,2019-01-06,Delhi,Cochin,DEL → RPR → NAG → BOM → COK,5:15,2280,3 stops,10703
+920,920,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,4:55,460,1 stop,11098
+921,921,IndiGo,2019-01-06,Chennai,Kolkata,MAA → CCU,11:35,145,non-stop,3858
+922,922,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:20,910,1 stop,6795
+923,923,Jet Airways,2019-01-06,Banglore,Delhi,BLR → DEL,15:15,175,non-stop,8016
+924,924,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JDH → BOM → COK,11:40,440,2 stops,15812
+925,925,Air India,2019-01-06,Delhi,Cochin,DEL → HYD → BOM → COK,17:15,1560,2 stops,12970
+926,926,GoAir,2019-01-06,Banglore,Delhi,BLR → DEL,11:40,170,non-stop,3898
+927,927,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,18:15,610,1 stop,10262
+928,928,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,15:00,1680,1 stop,14714
+929,929,IndiGo,2019-01-06,Kolkata,Banglore,CCU → BLR,4:40,155,non-stop,4804
+930,930,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,17:00,510,1 stop,7408
+931,931,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:45,615,1 stop,12524
+932,932,IndiGo,2019-01-06,Kolkata,Banglore,CCU → BLR,17:15,155,non-stop,5224
+933,933,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,13:00,480,1 stop,7933
+934,934,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JDH → BOM → COK,11:40,440,2 stops,18804
+935,935,Jet Airways,2019-01-06,Banglore,Delhi,BLR → DEL,6:00,165,non-stop,8016
+936,936,Air India,2019-01-06,Banglore,Delhi,BLR → DEL,10:00,165,non-stop,6961
+937,937,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:20,535,1 stop,9526
+938,938,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:00,660,1 stop,14714
+939,939,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,11:30,570,1 stop,13587
+940,940,Jet Airways,2019-01-06,Delhi,Cochin,DEL → NAG → BOM → COK,6:45,1300,2 stops,13376
+941,941,IndiGo,2019-01-06,Delhi,Cochin,DEL → BLR → COK,17:05,320,1 stop,7060
+942,942,Air India,2019-01-06,Delhi,Cochin,DEL → GOI → BOM → COK,22:00,1275,2 stops,10441
+943,943,Jet Airways,2019-01-06,Delhi,Cochin,DEL → ATQ → BOM → COK,20:00,505,2 stops,15318
+944,944,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,19:45,520,1 stop,14714
+945,945,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,19:30,535,2 stops,13014
+946,946,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,8:30,170,non-stop,4823
+947,947,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,20:00,170,non-stop,4823
+948,948,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:30,630,1 stop,11200
+949,949,Air India,2019-01-06,Chennai,Kolkata,MAA → CCU,11:40,135,non-stop,4667
+950,950,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:00,675,1 stop,16108
+951,951,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,7:00,840,1 stop,7408
+952,952,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,17:30,1530,1 stop,14714
+953,953,Jet Airways,2019-01-06,Banglore,Delhi,BLR → DEL,8:20,180,non-stop,8016
+954,954,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,9:40,1615,2 stops,10368
+955,955,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:00,555,1 stop,16108
+956,956,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,19:30,535,2 stops,10368
+957,957,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,12:50,760,1 stop,6795
+958,958,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,14:00,1355,1 stop,10262
+959,959,Jet Airways,2019-01-06,Mumbai,Hyderabad,BOM → HYD,10:20,90,non-stop,5678
+960,960,Air India,2019-01-06,Banglore,Delhi,BLR → DEL,13:20,170,non-stop,6961
+961,961,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,1:30,165,non-stop,4077
+962,962,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,19:15,550,1 stop,10262
+963,963,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,12:50,385,1 stop,9526
+964,964,SpiceJet,2019-01-06,Banglore,Delhi,BLR → DEL,9:30,170,non-stop,3919
+965,965,Air India,2019-01-06,Delhi,Cochin,DEL → COK,14:10,180,non-stop,6934
+966,966,IndiGo,2019-01-06,Delhi,Cochin,DEL → HYD → COK,16:10,380,1 stop,6938
+967,967,SpiceJet,2019-01-06,Chennai,Kolkata,MAA → CCU,9:45,135,non-stop,3543
+968,968,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → HYD → COK,13:15,555,1 stop,9646
+969,969,GoAir,2019-01-06,Delhi,Cochin,DEL → BOM → COK,14:25,310,1 stop,10651
+970,970,IndiGo,2019-01-06,Delhi,Cochin,DEL → COK,14:25,195,non-stop,6015
+971,971,IndiGo,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:35,895,1 stop,6206
+972,972,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:00,720,1 stop,7933
+973,973,Air India,2019-01-06,Delhi,Cochin,DEL → MAA → COK,9:45,1420,1 stop,8372
+974,974,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,10:00,1105,1 stop,10262
+975,975,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:00,1225,1 stop,10262
+976,976,SpiceJet,2019-01-06,Kolkata,Banglore,CCU → BLR,22:20,140,non-stop,3873
+977,977,Vistara,2019-01-06,Delhi,Cochin,DEL → COK,14:40,190,non-stop,6741
+978,978,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,6:40,755,1 stop,8937
+979,979,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,11:25,470,1 stop,8937
+980,980,Jet Airways,2019-01-06,Delhi,Cochin,DEL → IDR → BOM → COK,21:25,1295,2 stops,13292
+981,981,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,22:10,170,non-stop,3419
+982,982,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,9:40,1125,2 stops,13014
+983,983,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,9:00,615,1 stop,16108
+984,984,Air India,2019-01-06,Delhi,Cochin,DEL → AMD → BOM → COK,19:45,1410,2 stops,10651
+985,985,Jet Airways,2019-01-06,Mumbai,Hyderabad,BOM → HYD,7:05,85,non-stop,5678
+986,986,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,9:40,1615,2 stops,10368
+987,987,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,19:15,1425,1 stop,10262
+988,988,IndiGo,2019-01-06,Delhi,Cochin,DEL → BLR → COK,2:00,345,1 stop,6386
+989,989,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,9:40,560,2 stops,10368
+990,990,Air India,2019-01-06,Delhi,Cochin,DEL → CCU → BOM → COK,6:50,1490,2 stops,15481
+991,991,IndiGo,2019-01-06,Banglore,Delhi,BLR → DEL,21:15,180,non-stop,3943
+992,992,Jet Airways,2019-01-06,Delhi,Cochin,DEL → JAI → BOM → COK,5:30,1375,2 stops,13014
+993,993,Vistara,2019-01-06,Chennai,Kolkata,MAA → CCU,17:45,140,non-stop,11982
+994,994,SpiceJet,2019-01-06,Kolkata,Banglore,CCU → BLR,9:00,145,non-stop,4174
+995,995,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,15:00,805,1 stop,14714
+996,996,Jet Airways,2019-01-06,Delhi,Cochin,DEL → BOM → COK,15:00,805,1 stop,10262
+997,997,Multiple carriers,2019-01-06,Delhi,Cochin,DEL → BOM → COK,8:45,630,1 stop,10261
+998,998,Vistara,2019-01-06,Banglore,Delhi,BLR → DEL,19:30,165,non-stop,4878
+999,999,GoAir,2019-01-06,Delhi,Cochin,DEL → BOM → COK,7:00,355,1 stop,5457
