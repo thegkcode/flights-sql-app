@@ -62,4 +62,4 @@ elif user_option == 'Analytics':
     st.plotly_chart(fig, config=my_config)
 
 else:
-    st.title('Tell about the projects')
+    st.title('Tell us about the projects')
